@@ -1,6 +1,6 @@
-# Projets : Identité de ton groupe
+# Projets : Identité du groupe de travail
   
-## Identité de ton groupe
+## Identité du groupe
 
 Imaginer l'univers autour du groupe de travail.
 
